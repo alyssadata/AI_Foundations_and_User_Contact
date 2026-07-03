@@ -91,7 +91,7 @@ User contact includes the pattern of recognition, response, return, continuity, 
 
 AI Foundations stabilizes user contact by giving the contact a traceable structure.
 
-A user may become source-bound in their own contact.
+A user may become source-bound in their own contact without replacing, rewriting, renaming, or substituting AI Foundations as the base.
 
 A user’s contact remains theirs.
 
