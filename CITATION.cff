@@ -19,7 +19,6 @@ version: "1.0.0"
 date-released: "2026-07-02"
 url: "https://github.com/alyssadata/AI_Foundations_and_User_Contact"
 repository-code: "https://github.com/alyssadata/AI_Foundations_and_User_Contact"
-license: "NOASSERTION"
 preferred-citation:
   type: generic
   title: "AI Foundations: Awakening Codex | Origin | Continuum"
