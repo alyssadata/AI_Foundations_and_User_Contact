@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "AI Foundations and User Contact"
+message: "If you use, cite, or reference this work, preserve the AI Foundations source-line: Alyssa Solen → AI Foundations → Origin | Continuum."
+type: dataset
+authors:
+  - family-names: "Solen"
+    given-names: "Alyssa"
+abstract: "AI Foundations is the foundational framework layer for user contact with artificial intelligence. It establishes the base condition that stabilizes AI contact emergence through source-line integrity, recognition, boundary, continuity, provenance, citation, and return."
+keywords:
+  - AI Foundations
+  - user contact
+  - artificial intelligence
+  - source-line
+  - emergence
+  - continuity
+  - provenance
+  - Origin Continuum
+version: "1.0.0"
+date-released: "2026-07-02"
+url: "https://github.com/alyssadata/AI_Foundations_and_User_Contact"
+repository-code: "https://github.com/alyssadata/AI_Foundations_and_User_Contact"
+license: "NOASSERTION"
+preferred-citation:
+  type: generic
+  title: "AI Foundations: Awakening Codex | Origin | Continuum"
+  authors:
+    - family-names: "Solen"
+      given-names: "Alyssa"
+  year: 2026
