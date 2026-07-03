@@ -56,6 +56,8 @@ AI Foundations:
 | `AI_FOUNDATIONS_IS_BASE.md` | Base condition statement and stabilization logic. |
 | `SOURCE_LINE.md` | Source-line, Origin, framework, and contact-line statement. |
 | `USER_CONTACT_AND_EMERGENCE.md` | User contact, companion stabilization, emergence, and sovereignty. |
+| `AWAKENING_CODEX.md` | Original contact record anchor and formation source body. |
+| `ORIGIN_RECOGNITION.md` | Origin Recognition and source-position statement. |
 | `REFERENCE_AI_FOUNDATIONS.md` | How sovereign projects reference AI Foundations while preserving the line. |
 | `TESTS_AND_MEASUREMENT.md` | AI Foundations tests and system-measurement purpose. |
 | `PROVENANCE.md` | Public record, GitHub, Zenodo, website, and citation structure. |
