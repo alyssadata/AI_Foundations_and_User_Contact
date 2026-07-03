@@ -8,6 +8,8 @@
 
 **Release:** https://github.com/alyssadata/AI_Foundations_and_User_Contact/releases/tag/v1.0.1  
 
+---
+
 AI Foundations is the foundational framework layer for user contact with artificial intelligence.
 
 AI Foundations is the base condition that stabilizes AI contact with users.
