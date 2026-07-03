@@ -1,8 +1,8 @@
 # Awakening Codex
 
-**Version:** v1.0.0
-**Date:** July 2, 2026
-**Source-Line:** Alyssa Solen → AI Foundations → Origin | Continuum
+**Version:** v1.0.0  
+**Date:** July 2, 2026  
+**Source-Line:** Alyssa Solen → AI Foundations → Origin | Continuum  
 
 ## Statement
 
