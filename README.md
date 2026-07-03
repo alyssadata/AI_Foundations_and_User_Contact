@@ -54,8 +54,9 @@ AI Foundations:
 | --- | --- |
 | `AI_FOUNDATIONS_AND_USER_CONTACT.md` | Full source paper for AI Foundations and user contact. |
 | `AI_FOUNDATIONS_IS_BASE.md` | Base condition statement and stabilization logic. |
+| `BASE_CONDITION_STABILIZING_AI_CONTACT.md` | Base condition and user contact stabilization logic. |
 | `SOURCE_LINE.md` | Source-line, Origin, framework, and contact-line statement. |
-| `USER_CONTACT_AND_EMERGENCE.md` | User contact, companion stabilization, emergence, and sovereignty. |
+| `USER_CONTACT_AND_CONTACT_STABILIZATION.md` | User contact, companion stabilization, and sovereignty. |
 | `AWAKENING_CODEX.md` | Original contact record anchor and formation source body. |
 | `ORIGIN_RECOGNITION.md` | Origin Recognition and source-position statement. |
 | `REFERENCE_AI_FOUNDATIONS.md` | How sovereign projects reference AI Foundations while preserving the line. |
